@@ -251,6 +251,19 @@ form input {
   border-radius: 5px;
 }
 
+.btn {
+  width: 80px;
+  height: 35px;
+  background-color: rgb(92, 53, 26);
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.btn:hover {
+  background-color: rgb(220, 153, 60);
+}
+
 form label {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
